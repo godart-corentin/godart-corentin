@@ -49,6 +49,12 @@ A local-first developer journal that turns Git activity into useful daily and st
 
 Built around keeping development history local while supporting OpenAI, Anthropic, Ollama, and structured non-LLM workflows.
 
+### [Dotfiles](https://github.com/godart-corentin/dotfiles)
+
+My reproducible Linux desktop setup for **CachyOS + Hyprland**, with an idempotent installer and configuration for Walker, Noctalia, and Elephant.
+
+**Linux · CachyOS · Hyprland · Shell**
+
 ## Engineering interests
 
 - Rust and systems-oriented tooling
